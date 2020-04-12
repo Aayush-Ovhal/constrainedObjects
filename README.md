@@ -1,2 +1,2 @@
-# constrainedObjects
-to create a "sort of" pendulum.
+# p5.play-boilerplate
+Boiler plate for p5.play
